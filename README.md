@@ -31,5 +31,5 @@ npm start
 ```
 
 ```bash
-project client is running lcoally at url: localhost:5173 and server at localhost:8000
+project client is running locally at url: localhost:5173 and server at localhost:8000
 ```
